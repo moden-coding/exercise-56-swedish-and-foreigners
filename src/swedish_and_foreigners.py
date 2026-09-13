@@ -7,7 +7,7 @@ def swedish_and_foreigners():
 
 
 def main():
-    swedish_and_foreigners()
+    print(swedish_and_foreigners())
 
 if __name__ == "__main__":
     main()
